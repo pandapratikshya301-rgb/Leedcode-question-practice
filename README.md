@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Array
 |  |
 | ------- |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0217-contains-duplicate) |
 | [0682-baseball-game](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0682-baseball-game) |
 ## Two Pointers
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
