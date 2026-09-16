@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0344-reverse-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
