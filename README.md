@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0217-contains-duplicate) |
+| [0682-baseball-game](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,9 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
