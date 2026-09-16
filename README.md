@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0344-reverse-string) |
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0203-remove-linked-list-elements) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pandapratikshya301-rgb/Leedcode-question-practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
